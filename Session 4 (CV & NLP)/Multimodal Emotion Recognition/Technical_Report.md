@@ -11,5 +11,7 @@
 ## Training and Validation Loss Plots
 ## Plots for the CNN
 ![CNN Loss Plots](Images/CNN_Loss_Plots.png)
+## Plots for the RNN
 ![RNN Loss Plots](Images/RNN_Loss_Plots.png)
+## Plots for the MultiModal Architecture
 ![MultiModal Model Loss Plots](Images/MultiModal_Loss_Plots.png)
